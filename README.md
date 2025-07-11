@@ -3,3 +3,20 @@ EAGLE: an energy-efficient WSN protocol combining Genetic Algorithms for optimal
 ## Installation
 ```bash
 pip install -r requirements.txt
+python main.py
+
+---
+
+## ⚙️ **.gitignore** (Python)
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.ipynb_checkpoints/
+.DS_Store
+*.log
+
+
