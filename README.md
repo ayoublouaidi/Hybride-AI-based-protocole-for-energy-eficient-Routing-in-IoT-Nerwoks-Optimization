@@ -19,4 +19,12 @@ __pycache__/
 .DS_Store
 *.log
 
+## 📊 Results
+
+Example plot:
+![Energy Consumption](results/Total energy consumed per round(1).png)
+
+
+
+
 
